@@ -163,9 +163,9 @@ export default function Dashboard() {
 //   const [plannerData, setPlannerData] = useState([]);
 //   const [plannerLoaded, setPlannerLoaded] = useState(false);
 //   const authKey = {
-//     username: "eb1a569c1646e0d82877eb52b537d276",
+//     username: "",
 //     //process.env.REACT_APP_
-//     password: "20c2865d5d37237746f5bc89865d7198",
+//     password: "",
 //   };
 
 //   //API Key: eb1a569c1646e0d82877eb52b537d276
