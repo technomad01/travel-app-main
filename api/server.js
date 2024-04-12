@@ -19,7 +19,7 @@ const portnum = 8080;
 
 const mongoURI =
   process.env.MONGODB_URI ||
-  "mongodb+srv://travel-app-api:be2FV59P5XJSXkcs@cluster0.zizp4z1.mongodb.net/travel-app";
+  "";
 
 mongoose.connect(mongoURI, { useNewUrlParser: true });
 
